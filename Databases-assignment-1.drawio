@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="cAjTUbIzPjHpSAluk7l2">
-    <mxGraphModel dx="2425" dy="2389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -451,9 +451,6 @@
             <mxPoint x="1970" y="-64" as="sourcePoint" />
             <mxPoint x="2050" y="-90" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rxwNTpuMneH0Ak4yw58f-131" parent="1" style="whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Entity" vertex="1">
-          <mxGeometry height="40" width="100" x="310" y="150" as="geometry" />
         </mxCell>
         <mxCell id="Oj_G8KDYN1Tr9lCeZuDK-1" parent="1" style="whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Use case 2: Survive&lt;/font&gt;" vertex="1">
           <mxGeometry height="114" width="960" x="820" y="740" as="geometry" />
