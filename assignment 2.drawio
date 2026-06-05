@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="cAjTUbIzPjHpSAluk7l2">
-    <mxGraphModel dx="-1539" dy="-563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-529" dy="-26" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -857,7 +857,7 @@
             <mxRectangle height="40" width="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tWfweLZAKDbBiJzp_3o6-285" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Favourit List" vertex="1">
+        <mxCell id="tWfweLZAKDbBiJzp_3o6-285" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Favourite List" vertex="1">
           <mxGeometry height="30" width="110" x="4089" y="4420" as="geometry" />
         </mxCell>
         <mxCell id="tWfweLZAKDbBiJzp_3o6-286" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
@@ -976,7 +976,7 @@
             <mxRectangle height="40" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tWfweLZAKDbBiJzp_3o6-329" parent="tWfweLZAKDbBiJzp_3o6-326" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;u&gt;list_name[FK: Favourit List: Name]&lt;/u&gt;" vertex="1">
+        <mxCell id="tWfweLZAKDbBiJzp_3o6-329" parent="tWfweLZAKDbBiJzp_3o6-326" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;u&gt;list_name[FK: Favourite List: Name]&lt;/u&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="330" as="geometry">
             <mxRectangle height="40" width="110" as="alternateBounds" />
           </mxGeometry>
@@ -1012,7 +1012,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tWfweLZAKDbBiJzp_3o6-337" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Multivalued phone numbers" vertex="1">
-          <mxGeometry height="30" width="150" x="4584" y="4050" as="geometry" />
+          <mxGeometry height="30" width="150" x="4584" y="4060" as="geometry" />
         </mxCell>
         <mxCell id="tWfweLZAKDbBiJzp_3o6-338" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="40" width="510" x="4800" y="4070" as="geometry" />
@@ -1092,7 +1092,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tWfweLZAKDbBiJzp_3o6-361" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Steam level" vertex="1">
-          <mxGeometry height="30" width="105" x="4865" y="4140" as="geometry" />
+          <mxGeometry height="30" width="80" x="4865" y="4140" as="geometry" />
         </mxCell>
         <mxCell id="tWfweLZAKDbBiJzp_3o6-363" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="For the disjoint" vertex="1">
           <mxGeometry height="30" width="140" x="4500" y="4360" as="geometry" />
@@ -1146,7 +1146,7 @@
           <mxGeometry height="30" width="105" x="5120" y="4330" as="geometry" />
         </mxCell>
         <mxCell id="9-hCEwCKS_gYX3clvYk6-1" parent="1" style="whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=17;fontColor=default;labelBackgroundColor=default;" value="&lt;font&gt;Part 3: Normalization&lt;/font&gt;" vertex="1">
-          <mxGeometry height="114" width="960" x="3960" y="5200" as="geometry" />
+          <mxGeometry height="114" width="960" x="3990" y="5150" as="geometry" />
         </mxCell>
         <mxCell id="9-hCEwCKS_gYX3clvYk6-2" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="40" width="260" x="3960" y="5410" as="geometry" />
@@ -1538,6 +1538,9 @@
         </mxCell>
         <mxCell id="uGtKrRHbDyvZ1xF1Xljg-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Free" vertex="1">
           <mxGeometry height="30" width="60" x="4700" y="4330" as="geometry" />
+        </mxCell>
+        <mxCell id="uGtKrRHbDyvZ1xF1Xljg-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Event details" vertex="1">
+          <mxGeometry height="30" width="91" x="3959" y="5650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
